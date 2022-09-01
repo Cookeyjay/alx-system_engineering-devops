@@ -10,3 +10,7 @@ This script changes the working dir to the user dir
 #!/bin/bash
 ls -l
 The above script displays the content of the directory in a long list
+#!/bin/bash
+ls -la
+The above script displays all content of a dir including hidden contents in a long list
+
